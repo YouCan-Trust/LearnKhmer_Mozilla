@@ -1,0 +1,25 @@
+{
+  "name": "Khmer&more",
+  "description": " Learn about the Khmer Culture, Language and a lot more",
+  "launch_path": "/index.html",
+  
+  "icons": {
+    "128": "/images/icon128.jpg",
+    "60" : "/images/icon60.jpg",
+    "30" : "/images/icon30.jpg",
+    "32" : "/images/icon32.jpg",
+    "90" : "/images/icon90.jpg",
+    "120" : "/images/icon120.jpg",
+    "256": "/images/icon256.jpg"	
+  },
+  
+
+  "developer": {
+    "name": "YouCan Trust Deutschland UG ",
+    "url":  "http://www.youcan-trust.org"
+  },
+  
+  "default_locale": "en",
+
+  "csp": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}
