@@ -55,9 +55,4 @@ weather_snippet:                                                /* Weather plugi
                 
                 
                 
-navigation bar. This will switch from the current document to the new one.
-
-#### <i class="icon-folder-open"></i> Switch to another document
-
----------------
 
