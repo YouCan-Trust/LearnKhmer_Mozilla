@@ -8,12 +8,16 @@ file structures which you need to concern to make the web app work.
 
 *Notes: To let application cache work, remember to add this line to .htaccess file: 'AddType text/cache-manifest .appcache'
 
--- Plugins: + Jquery mobile
+Plugins: 
+========
+
+                        + Jquery mobile
                         + Flexslider (for image slider)
                         + Buzz (for audio controller)
                         + Weather plugin
 
--- File structure:
+File structure:
+---------------
 
 ./index.html                            /* Main html file which use with jquery mobile */
 ./FriendPageDetail*.html                /* Files for displaying friend page detail */
